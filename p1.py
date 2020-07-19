@@ -1,3 +1,4 @@
-def add_2(a,b,c):
+def add_2(a,b,c,d):
         a = 2 * a
-	return (a+b+c)
+	c = 2 * b
+	return (a+b+c+d)
